@@ -1,0 +1,7 @@
+C:\Users\נאוה\Desktop\Advanced programming 2\Excercise_1\Excercise_1\bin\Debug\Excercise_1.exe.config
+C:\Users\נאוה\Desktop\Advanced programming 2\Excercise_1\Excercise_1\bin\Debug\Excercise_1.exe
+C:\Users\נאוה\Desktop\Advanced programming 2\Excercise_1\Excercise_1\bin\Debug\Excercise_1.pdb
+C:\Users\נאוה\Desktop\Advanced programming 2\Excercise_1\Excercise_1\obj\Debug\Excercise_1.csprojResolveAssemblyReference.cache
+C:\Users\נאוה\Desktop\Advanced programming 2\Excercise_1\Excercise_1\obj\Debug\Excercise_1.csproj.CoreCompileInputs.cache
+C:\Users\נאוה\Desktop\Advanced programming 2\Excercise_1\Excercise_1\obj\Debug\Excercise_1.exe
+C:\Users\נאוה\Desktop\Advanced programming 2\Excercise_1\Excercise_1\obj\Debug\Excercise_1.pdb
